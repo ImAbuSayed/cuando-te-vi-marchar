@@ -1,0 +1,10 @@
+# Cryptographic Proof of Authorship Log - Cuando te vi marchar
+
+This log tracks the cryptographic history and versioning for the song **Cuando te vi marchar** (cuando-te-vi-marchar).
+
+| Timestamp | Version | Clean SHA-256 Hash | Raw SHA-256 Hash | Backup File |
+|:----------|:--------|:-------------------|:-----------------|:------------|
+| 2026-06-13T03:17:05.333604 | `v1` | `7668149e3cebdeb55ad65f21ea76ad96b1b91d373b232c79a0982c70a9f18d83` | `bcff62fbdd81282dffbd5fb1291852623a4ba4252b60212c80a9f5d83ef98341` | `2026-06-13_cuando-te-vi-marchar-v1.txt` |
+
+---
+*Written and Curated by Abu Sayed*

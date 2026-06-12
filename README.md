@@ -15,7 +15,7 @@
 | **Written On** | June 09, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/cuando-te-vi-marchar/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Official Music Licensing for Cuando te vi marchar](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/cuando-te-vi-marchar/) |
+| **Get License** | [Get License For Cuando te vi marchar](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/cuando-te-vi-marchar/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -110,7 +110,7 @@ This song is an original creative work by Abu Sayed. All lyrics, melody, and com
 |:-------------------|:------------|
 | **Author** | Abu Sayed |
 | **Version** | `v1` |
-| **SHA-256 Hash** | `N/A` |
+| **SHA-256 Hash** | `7668149e3cebdeb55ad65f21ea76ad96b1b91d373b232c79a0982c70a9f18d83` |
 | **Timestamp** | June 13, 2026 |
 
 See [LICENSE.md](./LICENSE.md) for full terms and conditions.
