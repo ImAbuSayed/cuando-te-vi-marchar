@@ -15,7 +15,7 @@
 | **Written On** | June 09, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/cuando-te-vi-marchar/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Get License For Cuando te vi marchar](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/cuando-te-vi-marchar/) |
+| **Get License** | [Official Music Licensing for Cuando te vi marchar](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/cuando-te-vi-marchar/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> Cuando te vi marchar, dejaste el club encendido,
+> Baby, tu mirada me llevó a lo prohibido.
+> Loco por tenerte, ya perdí el control,
+> Vuelve a mi lado, que me robaste el sol.
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
